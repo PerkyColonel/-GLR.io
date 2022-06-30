@@ -1,0 +1,22 @@
+$pixelSize: 4;
+
+*{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    // overflow-x: hidden;
+    // overflow-y: hidden;
+}
+
+.speler{
+    width: 16 * $pixelSize + px;
+    height: 16 * $pixelSize + px;
+    background-color: rgb(10, 132, 12);
+}
+
+#canvas {
+   
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../Media/Grass.png);
+}

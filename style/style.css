@@ -1,0 +1,17 @@
+* {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
+
+.speler {
+  width: 64px;
+  height: 64px;
+  background-color: rgb(10, 132, 12);
+}
+
+#canvas {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../Media/Grass.png);
+}/*# sourceMappingURL=style.css.map */
